@@ -1,1 +1,1 @@
-# pre_trained_model
+# pre_trained_model for TinyML
